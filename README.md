@@ -5,7 +5,9 @@ Parameter Estimation using the Neyman Construction
 ## Dependencies
 
 numpy
+
 ROOT (most conveniently installed through [here](https://iscinumpy.gitlab.io/post/root-conda/))
+
 [root_numpy](http://scikit-hep.org/root_numpy/index.html)
 
 ## Example Usage
